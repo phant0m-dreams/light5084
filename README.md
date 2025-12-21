@@ -33,3 +33,17 @@
 - ⚙️ **Node.js** — Backend beast for API sorcery  
 - ✨ **Figma** — Design-to-code flow with perfect pixels  
 - 🐧 **Linux** — Terminal-native builds, Arch btw
+
+<a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0009-0002-6426-4411"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+      https://orcid.org/0009-0002-6426-4411
+    </a>
